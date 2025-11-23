@@ -5,7 +5,7 @@ An AI-powered career development and resume analysis platform built with IBM Wat
 ---
 
 ## 🌐 Live Demo
-[https://ibm-hackathone.vercel.app/](https://ibm-hackathone.vercel.app/)
+[https://ibm-hackathone.vercel.app/](https://ibm-hackathone-857r.vercel.app/)
 
 ---
 
